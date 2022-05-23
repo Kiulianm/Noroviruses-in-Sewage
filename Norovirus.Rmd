@@ -35,6 +35,8 @@ library(ade4)
 
 ```{r}
 data("LakeHuron")
+
+View(LakeHuron)
 ```
 
 
